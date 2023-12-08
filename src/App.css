@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+input {
+  margin-right: 10px;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  text-align: left;
+  margin: 5px 0;
+}
